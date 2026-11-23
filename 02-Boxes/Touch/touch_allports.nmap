@@ -1,0 +1,11 @@
+# Nmap 7.99 scan initiated Sun Nov 22 19:37:45 2026 as: /usr/lib/nmap/nmap --privileged -p- --min-rate 5000 -oA touch_allports 10.129.3.146
+Nmap scan report for 10.129.3.146
+Host is up (0.31s latency).
+Not shown: 65531 filtered tcp ports (no-response)
+PORT     STATE SERVICE
+135/tcp  open  msrpc
+3389/tcp open  ms-wbt-server
+5985/tcp open  wsman
+8443/tcp open  https-alt
+
+# Nmap done at Sun Nov 22 19:38:13 2026 -- 1 IP address (1 host up) scanned in 28.40 seconds

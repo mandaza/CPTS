@@ -1,0 +1,4 @@
+# Nmap 7.99 scan initiated Sun Nov 22 19:37:45 2026 as: /usr/lib/nmap/nmap --privileged -p- --min-rate 5000 -oA touch_allports 10.129.3.146
+Host: 10.129.3.146 ()	Status: Up
+Host: 10.129.3.146 ()	Ports: 135/open/tcp//msrpc///, 3389/open/tcp//ms-wbt-server///, 5985/open/tcp//wsman///, 8443/open/tcp//https-alt///	Ignored State: filtered (65531)
+# Nmap done at Sun Nov 22 19:38:13 2026 -- 1 IP address (1 host up) scanned in 28.40 seconds
